@@ -1,0 +1,27 @@
+ <table>
+   <tr id="trHeader">
+     <th>Player</th>
+     <th>Ranking</th>
+     <th>Position</th>
+   </tr>
+   <tr>
+     <td>Jacky boy hughes</td>
+     <td class="centerCell">1st</td>
+     <td>1st</td>
+   </tr>
+   <tr>
+     <td>Vasy Podi</td>
+     <td class="centerCell">4th</td>
+     <td>2nd</td>
+   </tr>
+   <tr>
+     <td>peyton krebs</td>
+     <td class="centerCell">6th</td>
+     <td>3rd</td>
+   </tr>
+   <tr>
+     <td>kaapo kakko</td>
+     <td class="centerCell">2nd</td>
+     <td>4th</td>
+   </tr>
+ </table>
