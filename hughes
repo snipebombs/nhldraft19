@@ -1,27 +1,34 @@
- <table>
-   <tr id="trHeader">
-     <th>Player</th>
-     <th>Ranking</th>
-     <th>Position</th>
-   </tr>
-   <tr>
-     <td>Jacky boy hughes</td>
-     <td>1st</td>
-     <td>1st</td>
-   </tr>
-   <tr>
-     <td>Vasy Podi</td>
-     <td>4th</td>
-     <td>2nd</td>
-   </tr>
-   <tr>
-     <td>peyton krebs</td>
-     <td class="centerCell">6th</td>
-     <td>3rd</td>
-   </tr>
-   <tr>
-     <td>kaapo kakko</td>
-     <td>2nd</td>
-     <td>4th</td>
-   </tr>
- </table>
+h1  {
+       text-align: center;
+       font-size: 12pt;
+       color: #000099;
+       margin-bottom: 5px;
+       text-decoration: underline;
+    }
+    
+    table {
+       margin: 5px;
+       width: 290px;
+    }
+    
+    th {
+       padding: 3px;
+       border: 1px solid #990000;
+      color:#995710
+    }
+    
+    td {
+       padding-left: 8px;
+       padding-right: 8px;
+       border: 1px solid #990000;
+       background-color: #ffffcc;
+    }
+    
+    #trHeader {
+       text-decoration: underline;
+       color: #990000;
+    }
+    
+    .centerCell {
+       text-align: center;
+    }
